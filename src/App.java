@@ -5,6 +5,6 @@ public class App {
         System.out.println("Hello, !");
         System.out.println("Hello, !");
         System.out.println("Hello, !");
-        System.out.println(":D");
+        System.out.println("Hello, Jimmyuwu!");
     }
 }
